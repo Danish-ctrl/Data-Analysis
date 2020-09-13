@@ -1,2 +1,2 @@
 # Data-Analysis
-Analyzing the various parameter of house.csv file
+Analyzing the various parameter of house.csv file using Exploratory Data Analysis(EDA) which is an approach to analyze the data sets to summarize their main characteristics, often with visual methods . Here we need to install pandas_profiling package using 'Pip install pandas_profiling'command in terminal.Along with it we must have pandas intalled with it.For generating report we need to import ProfileReport method which gives us overall stats of our file like number of row, coloumns, mean, median, longitude, latitude and many more charaterstics.
